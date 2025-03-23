@@ -1,0 +1,64 @@
+.navbar {
+  background-color: #000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #00eeff;
+  border-radius: 30px;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-left: 15px;
+  background: linear-gradient(90deg, rgb(0, 208, 255), rgb(242, 0, 222));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.login-button {
+  background-color: #00fff7;
+  color: #000;
+  border: none;
+  padding: 5px 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  margin-right: 15px;
+}
+
+.login-button:hover {
+  background-color: #00d2b6;
+}
+
+.home-icon {
+  font-size: 30px;
+  color: #00eeff;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+  margin-right: 18px;
+}
+
+.home-icon:hover {
+  color: #03949f;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    font-size: 1.5rem;
+  }
+
+  .login-button {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.8rem;
+    margin-right: 5px;
+  }
+
+  .home-icon {
+    margin-right: 5px;
+  }
+}

@@ -1,0 +1,3202 @@
+[
+    {
+        "id": 1,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 2,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 3,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 4,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 5,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 6,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 7,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 8,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 9,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 10,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 11,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 12,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 13,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 14,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 15,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 16,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 17,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 18,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 19,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 20,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 21,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 22,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 23,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 24,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 25,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 26,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 27,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 28,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 29,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 30,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 31,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 32,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 33,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 34,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 35,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 36,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 37,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 38,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 39,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 40,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 41,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 42,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 43,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 44,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 45,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 46,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 47,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 48,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 49,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 50,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 51,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 52,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 53,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 54,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 55,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 56,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 57,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 58,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 59,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 60,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 61,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 62,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 63,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 64,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 65,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 66,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 67,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 68,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 69,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 70,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 71,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 72,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 73,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 74,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 75,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 76,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 77,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 78,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 79,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 80,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 81,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 82,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 83,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 84,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 85,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 86,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 87,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 88,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 89,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 90,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 91,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 92,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 93,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 94,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 95,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 96,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 97,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 98,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 99,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 100,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 101,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 102,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 103,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 104,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 105,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 106,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 107,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 108,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 109,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 110,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 111,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 112,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 113,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 114,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 115,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 116,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 117,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 118,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 119,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 120,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 121,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 122,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 123,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 124,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 125,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 126,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 127,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 128,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 129,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 130,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 131,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 132,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 133,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 134,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 135,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 136,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 137,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 138,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 139,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 140,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 141,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 142,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 143,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 144,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 145,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 146,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 147,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 148,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 149,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 150,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 151,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 152,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 153,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 154,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 155,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 156,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 157,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 158,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 159,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 160,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 161,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 162,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 163,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 164,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 165,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 166,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 167,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 168,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 169,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 170,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 171,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 172,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 173,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 174,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 175,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 176,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 177,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 178,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 179,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 180,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 181,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 182,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 183,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 184,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 185,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 186,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 187,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 188,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 189,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 190,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 191,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 192,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 193,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 194,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 195,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 196,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 197,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 198,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 199,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 200,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 201,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 202,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 203,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 204,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 205,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 206,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 207,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 208,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 209,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 210,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 211,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 212,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 213,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 214,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 215,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 216,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 217,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 218,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 219,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 220,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 221,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 222,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 223,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 224,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 225,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 226,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 227,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 228,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 229,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 230,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 231,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 232,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 233,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 234,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 235,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 236,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 237,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 238,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 239,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 240,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 241,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 242,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 243,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 244,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 245,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 246,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 247,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 248,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 249,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 250,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 251,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 252,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 253,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 254,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 255,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 256,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 257,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 258,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 259,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 260,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 261,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 262,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 263,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 264,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 265,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 266,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 267,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 268,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 269,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 270,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 271,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 272,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 273,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 274,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 275,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 276,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 277,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 278,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 279,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 280,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 281,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 282,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 283,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 284,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 285,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 286,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 287,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 288,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 289,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 290,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 291,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 292,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 293,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 294,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 295,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 296,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 297,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 298,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 299,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 300,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 301,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 302,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 303,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 304,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 305,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 306,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 307,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 308,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 309,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 310,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 311,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 312,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 313,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 314,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 315,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 316,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 317,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 318,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 319,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 320,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 321,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 322,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 323,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 324,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 325,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 326,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 327,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 328,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 329,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 330,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 331,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 332,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 333,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 334,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 335,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 336,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 337,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 338,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 339,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 340,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 341,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 342,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 343,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 344,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 345,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 346,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 347,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 348,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 349,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 350,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 351,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 352,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 353,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 354,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 355,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 356,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 357,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 358,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 359,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 360,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 361,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 362,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 363,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 364,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 365,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 366,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 367,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 368,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 369,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 370,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 371,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 372,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 373,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 374,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 375,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 376,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 377,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 378,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 379,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 380,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 381,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 382,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 383,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 384,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 385,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 386,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 387,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 388,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 389,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 390,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 391,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 392,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 393,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 394,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 395,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 396,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 397,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 398,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 399,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 400,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 401,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 402,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 403,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 404,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 405,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 406,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 407,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 408,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 409,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 410,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 411,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 412,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 413,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 414,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 415,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 416,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 417,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 418,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 419,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 420,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 421,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 422,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 423,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 424,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 425,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 426,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 427,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 428,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 429,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 430,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 431,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 432,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 433,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 434,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 435,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 436,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 437,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 438,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 439,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 440,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 441,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 442,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 443,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 444,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 445,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 446,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 447,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 448,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 449,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 450,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 451,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 452,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 453,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 454,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 455,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 456,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 457,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 458,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 459,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 460,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 461,
+        "category": "Social Life & Relationships",
+        "question": "How satisfied are you with your social life?"
+    },
+    {
+        "id": 462,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you find it easy to make and maintain friendships?"
+    },
+    {
+        "id": 463,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you ever felt lonely even when surrounded by people?"
+    },
+    {
+        "id": 464,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel supported by your family and friends?"
+    },
+    {
+        "id": 465,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in meaningful conversations?"
+    },
+    {
+        "id": 466,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are three things that bring you happiness?"
+    },
+    {
+        "id": 467,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice gratitude regularly?"
+    },
+    {
+        "id": 468,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you define success in your life?"
+    },
+    {
+        "id": 469,
+        "category": "Social Life & Relationships",
+        "question": "What activities make you feel fulfilled?"
+    },
+    {
+        "id": 470,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you set and work towards personal goals?"
+    },
+    {
+        "id": 471,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 472,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you handle difficult emotions like sadness or anger?"
+    },
+    {
+        "id": 473,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you take breaks to recharge mentally?"
+    },
+    {
+        "id": 474,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Have you ever kept a journal to express your thoughts?"
+    },
+    {
+        "id": 475,
+        "category": "Sleep & Physical Health",
+        "question": "What relaxation techniques work best for you?"
+    },
+    {
+        "id": 476,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you worry about your future career prospects?"
+    },
+    {
+        "id": 477,
+        "category": "Social Life & Relationships",
+        "question": "How confident are you about achieving your goals?"
+    },
+    {
+        "id": 478,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you feel pressure from family regarding career choices?"
+    },
+    {
+        "id": 479,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Have you considered seeking career counseling?"
+    },
+    {
+        "id": 480,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "How do you manage anxiety about the future?"
+    },
+    {
+        "id": 481,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic pressure?"
+    },
+    {
+        "id": 482,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "What are your common stress triggers in daily life?"
+    },
+    {
+        "id": 483,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent mood swings?"
+    },
+    {
+        "id": 484,
+        "category": "Academic Pressure & Student Life",
+        "question": "How do you usually cope with stressful situations?"
+    },
+    {
+        "id": 485,
+        "category": "Social Life & Relationships",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 486,
+        "category": "Happiness & Personal Growth",
+        "question": "How would you rate your self-esteem on a scale of 1-10?"
+    },
+    {
+        "id": 487,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 488,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "What are some things that make you feel confident?"
+    },
+    {
+        "id": 489,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you struggle with feelings of self-doubt or inadequacy?"
+    },
+    {
+        "id": 490,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "How do you handle negative feedback or criticism?"
+    },
+    {
+        "id": 491,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 492,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you feel well-rested in the morning?"
+    },
+    {
+        "id": 493,
+        "category": "Social Life & Relationships",
+        "question": "How often do you exercise in a week?"
+    },
+    {
+        "id": 494,
+        "category": "Happiness & Personal Growth",
+        "question": "Do you follow a balanced and healthy diet?"
+    },
+    {
+        "id": 495,
+        "category": "Mindfulness & Coping Mechanisms",
+        "question": "Do you experience frequent headaches or fatigue?"
+    },
+    {
+        "id": 496,
+        "category": "Future Anxiety & Career Concerns",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 497,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you procrastinate on assignments?"
+    },
+    {
+        "id": 498,
+        "category": "Emotional Well-being & Self-esteem",
+        "question": "Do you feel supported by your teachers or professors?"
+    },
+    {
+        "id": 499,
+        "category": "Sleep & Physical Health",
+        "question": "How do you manage your study workload effectively?"
+    },
+    {
+        "id": 500,
+        "category": "Academic Pressure & Student Life",
+        "question": "Do you believe your education system supports mental health?"
+    },
+    {
+        "id": 501,
+        "category": "Mental Health & Stress",
+        "question": "How often do you feel overwhelmed by your daily responsibilities?"
+    },
+    {
+        "id": 502,
+        "category": "Mental Health & Stress",
+        "question": "Do you experience frequent mood swings or emotional distress?"
+    },
+    {
+        "id": 503,
+        "category": "Mental Health & Stress",
+        "question": "On a scale of 1-10, how would you rate your overall stress levels?"
+    },
+    {
+        "id": 504,
+        "category": "Mental Health & Stress",
+        "question": "What coping mechanisms do you use when feeling stressed?"
+    },
+    {
+        "id": 505,
+        "category": "Mental Health & Stress",
+        "question": "Do you feel comfortable discussing your mental health with someone?"
+    },
+    {
+        "id": 506,
+        "category": "Mental Health & Stress",
+        "question": "Have you ever felt anxious in social or academic settings?"
+    },
+    {
+        "id": 507,
+        "category": "Mental Health & Stress",
+        "question": "Do you practice any form of stress management, like meditation or exercise?"
+    },
+    {
+        "id": 508,
+        "category": "Mental Health & Stress",
+        "question": "How often do you feel exhausted due to emotional stress?"
+    },
+    {
+        "id": 509,
+        "category": "Mental Health & Stress",
+        "question": "Do you think your stress levels affect your physical health?"
+    },
+    {
+        "id": 510,
+        "category": "Mental Health & Stress",
+        "question": "Do you feel you have control over your emotions during stressful situations?"
+    },
+    {
+        "id": 511,
+        "category": "Academic Pressure",
+        "question": "How often do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 512,
+        "category": "Academic Pressure",
+        "question": "Do you struggle with balancing academics and personal life?"
+    },
+    {
+        "id": 513,
+        "category": "Academic Pressure",
+        "question": "Do you procrastinate on assignments due to stress or anxiety?"
+    },
+    {
+        "id": 514,
+        "category": "Academic Pressure",
+        "question": "Have you ever experienced burnout due to academic workload?"
+    },
+    {
+        "id": 515,
+        "category": "Academic Pressure",
+        "question": "Do you believe academic success defines your self-worth?"
+    },
+    {
+        "id": 516,
+        "category": "Academic Pressure",
+        "question": "Do you receive enough support from teachers or mentors?"
+    },
+    {
+        "id": 517,
+        "category": "Academic Pressure",
+        "question": "How do you handle academic failure or setbacks?"
+    },
+    {
+        "id": 518,
+        "category": "Academic Pressure",
+        "question": "Do you compare yourself to other students academically?"
+    },
+    {
+        "id": 519,
+        "category": "Academic Pressure",
+        "question": "Do you feel that academic expectations are too high for you?"
+    },
+    {
+        "id": 520,
+        "category": "Academic Pressure",
+        "question": "How do you handle deadlines and time management?"
+    },
+    {
+        "id": 521,
+        "category": "Happiness & Well-being",
+        "question": "Do you often feel happy and content with your life?"
+    },
+    {
+        "id": 522,
+        "category": "Happiness & Well-being",
+        "question": "What activities bring you the most joy and fulfillment?"
+    },
+    {
+        "id": 523,
+        "category": "Happiness & Well-being",
+        "question": "Do you practice gratitude or reflect on positive experiences?"
+    },
+    {
+        "id": 524,
+        "category": "Happiness & Well-being",
+        "question": "On a scale of 1-10, how would you rate your overall happiness?"
+    },
+    {
+        "id": 525,
+        "category": "Happiness & Well-being",
+        "question": "Do you believe happiness is influenced by external factors or mindset?"
+    },
+    {
+        "id": 526,
+        "category": "Happiness & Well-being",
+        "question": "How often do you experience feelings of loneliness?"
+    },
+    {
+        "id": 527,
+        "category": "Happiness & Well-being",
+        "question": "Do you feel that your happiness is dependent on academic or career success?"
+    },
+    {
+        "id": 528,
+        "category": "Happiness & Well-being",
+        "question": "Do you take breaks to enjoy life outside of work and study?"
+    },
+    {
+        "id": 529,
+        "category": "Happiness & Well-being",
+        "question": "How important is mental well-being compared to material success?"
+    },
+    {
+        "id": 530,
+        "category": "Happiness & Well-being",
+        "question": "Do you have a hobby or passion that makes you feel fulfilled?"
+    },
+    {
+        "id": 531,
+        "category": "Sleep & Physical Health",
+        "question": "How many hours of sleep do you get on an average night?"
+    },
+    {
+        "id": 532,
+        "category": "Sleep & Physical Health",
+        "question": "Do you feel well-rested when you wake up in the morning?"
+    },
+    {
+        "id": 533,
+        "category": "Sleep & Physical Health",
+        "question": "How often do you experience sleep disturbances or insomnia?"
+    },
+    {
+        "id": 534,
+        "category": "Sleep & Physical Health",
+        "question": "Do you believe your sleep quality affects your mood and productivity?"
+    },
+    {
+        "id": 535,
+        "category": "Sleep & Physical Health",
+        "question": "How often do you engage in physical exercise or activity?"
+    },
+    {
+        "id": 536,
+        "category": "Sleep & Physical Health",
+        "question": "Do you maintain a balanced diet for overall health?"
+    },
+    {
+        "id": 537,
+        "category": "Sleep & Physical Health",
+        "question": "How frequently do you feel fatigued or low on energy?"
+    },
+    {
+        "id": 538,
+        "category": "Sleep & Physical Health",
+        "question": "Do you experience frequent headaches or body pain due to stress?"
+    },
+    {
+        "id": 539,
+        "category": "Sleep & Physical Health",
+        "question": "How do you take care of your physical health amidst a busy schedule?"
+    },
+    {
+        "id": 540,
+        "category": "Sleep & Physical Health",
+        "question": "Do you practice good posture and avoid long hours of screen time?"
+    },
+    {
+        "id": 541,
+        "category": "Social Relationships",
+        "question": "Do you have a strong support system of friends and family?"
+    },
+    {
+        "id": 542,
+        "category": "Social Relationships",
+        "question": "How comfortable are you in social situations?"
+    },
+    {
+        "id": 543,
+        "category": "Social Relationships",
+        "question": "Do you find it easy to make new friends and connections?"
+    },
+    {
+        "id": 544,
+        "category": "Social Relationships",
+        "question": "Do you have someone you can confide in when feeling stressed?"
+    },
+    {
+        "id": 545,
+        "category": "Social Relationships",
+        "question": "How often do you feel lonely or isolated?"
+    },
+    {
+        "id": 546,
+        "category": "Social Relationships",
+        "question": "Do you experience social anxiety in group settings?"
+    },
+    {
+        "id": 547,
+        "category": "Social Relationships",
+        "question": "Do you communicate openly and honestly with your close ones?"
+    },
+    {
+        "id": 548,
+        "category": "Social Relationships",
+        "question": "How do you handle conflicts in relationships?"
+    },
+    {
+        "id": 549,
+        "category": "Social Relationships",
+        "question": "Do you feel that your relationships positively impact your well-being?"
+    },
+    {
+        "id": 550,
+        "category": "Social Relationships",
+        "question": "Do you participate in group activities or social clubs?"
+    },
+    {
+        "id": 551,
+        "category": "Coping & Resilience",
+        "question": "How well do you handle unexpected challenges?"
+    },
+    {
+        "id": 552,
+        "category": "Coping & Resilience",
+        "question": "Do you consider yourself emotionally resilient?"
+    },
+    {
+        "id": 553,
+        "category": "Coping & Resilience",
+        "question": "What strategies do you use to overcome difficulties?"
+    },
+    {
+        "id": 554,
+        "category": "Coping & Resilience",
+        "question": "Do you seek help when facing mental or emotional struggles?"
+    },
+    {
+        "id": 555,
+        "category": "Coping & Resilience",
+        "question": "How do you react to failure or setbacks?"
+    },
+    {
+        "id": 556,
+        "category": "Coping & Resilience",
+        "question": "Do you believe hardships make you stronger?"
+    },
+    {
+        "id": 557,
+        "category": "Coping & Resilience",
+        "question": "Do you take breaks when overwhelmed with stress?"
+    },
+    {
+        "id": 558,
+        "category": "Coping & Resilience",
+        "question": "Have you developed coping mechanisms that work for you?"
+    },
+    {
+        "id": 559,
+        "category": "Coping & Resilience",
+        "question": "Do you engage in self-care practices regularly?"
+    },
+    {
+        "id": 560,
+        "category": "Coping & Resilience",
+        "question": "What inspires you to keep going during tough times?"
+    },
+    {
+        "id": 561,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What helps you sleep better?"
+    },
+    {
+        "id": 562,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What are your top three personal strengths?"
+    },
+    {
+        "id": 563,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you take time to reflect on your personal growth?"
+    },
+    {
+        "id": 564,
+        "category": "Academic Pressure & Study Habits",
+        "question": "How do you handle constructive criticism?"
+    },
+    {
+        "id": 565,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you set personal goals outside of academics?"
+    },
+    {
+        "id": 566,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What areas of life do you want to improve in?"
+    },
+    {
+        "id": 567,
+        "category": "Academic Pressure & Study Habits",
+        "question": "How do you define success for yourself?"
+    },
+    {
+        "id": 568,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What is one habit you want to develop?"
+    },
+    {
+        "id": 569,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you track your progress on self-improvement?"
+    },
+    {
+        "id": 570,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What is one thing you've learned about yourself recently?"
+    },
+    {
+        "id": 571,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you feel like you're becoming a better version of yourself?"
+    },
+    {
+        "id": 572,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What do you do when you feel stressed or anxious?"
+    },
+    {
+        "id": 573,
+        "category": "Academic Pressure & Study Habits",
+        "question": "How do you handle failure or setbacks?"
+    },
+    {
+        "id": 574,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you practice mindfulness or meditation?"
+    },
+    {
+        "id": 575,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What is your favorite way to unwind?"
+    },
+    {
+        "id": 576,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you find comfort in talking to someone when feeling down?"
+    },
+    {
+        "id": 577,
+        "category": "Social Life & Relationships",
+        "question": "How do you bounce back from negative experiences?"
+    },
+    {
+        "id": 578,
+        "category": "Social Life & Relationships",
+        "question": "Do you believe in the power of positive thinking?"
+    },
+    {
+        "id": 579,
+        "category": "Social Life & Relationships",
+        "question": "What strategies help you overcome difficult situations?"
+    },
+    {
+        "id": 580,
+        "category": "Social Life & Relationships",
+        "question": "How do you stay motivated during tough times?"
+    },
+    {
+        "id": 581,
+        "category": "Social Life & Relationships",
+        "question": "Do you feel confident in handling life's challenges?"
+    },
+    {
+        "id": 582,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you feel overwhelmed by academic work?"
+    },
+    {
+        "id": 583,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you experience anxiety before exams?"
+    },
+    {
+        "id": 584,
+        "category": "Mental Health & Stress Management",
+        "question": "How do you manage stress when facing deadlines?"
+    },
+    {
+        "id": 585,
+        "category": "Mental Health & Stress Management",
+        "question": "Have you ever experienced burnout?"
+    },
+    {
+        "id": 586,
+        "category": "Mental Health & Stress Management",
+        "question": "What are your main sources of stress?"
+    },
+    {
+        "id": 587,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you find it easy to take breaks when needed?"
+    },
+    {
+        "id": 588,
+        "category": "Mental Health & Stress Management",
+        "question": "Have you ever sought professional help for stress or anxiety?"
+    },
+    {
+        "id": 589,
+        "category": "Mental Health & Stress Management",
+        "question": "How do you handle negative thoughts?"
+    },
+    {
+        "id": 590,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you have a daily relaxation routine?"
+    },
+    {
+        "id": 591,
+        "category": "Mental Health & Stress Management",
+        "question": "What do you think contributes the most to your stress levels?"
+    },
+    {
+        "id": 592,
+        "category": "Mental Health & Stress Management",
+        "question": "When was the last time you felt truly happy?"
+    },
+    {
+        "id": 593,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you engage in activities that bring you joy?"
+    },
+    {
+        "id": 594,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you regularly practice gratitude?"
+    },
+    {
+        "id": 595,
+        "category": "Mental Health & Stress Management",
+        "question": "How do you define happiness in your life?"
+    },
+    {
+        "id": 596,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you feel emotionally supported by those around you?"
+    },
+    {
+        "id": 597,
+        "category": "Mental Health & Stress Management",
+        "question": "How often do you laugh in a day?"
+    },
+    {
+        "id": 598,
+        "category": "Mental Health & Stress Management",
+        "question": "What are three things that make you feel happy?"
+    },
+    {
+        "id": 599,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you feel satisfied with your current life situation?"
+    },
+    {
+        "id": 600,
+        "category": "Mental Health & Stress Management",
+        "question": "How do you handle disappointment or sadness?"
+    },
+    {
+        "id": 601,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you often compare yourself to others?"
+    },
+    {
+        "id": 602,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you feel pressure to perform well academically?"
+    },
+    {
+        "id": 603,
+        "category": "Mental Health & Stress Management",
+        "question": "How do you handle academic failure or setbacks?"
+    },
+    {
+        "id": 604,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you think your study habits are effective?"
+    },
+    {
+        "id": 605,
+        "category": "Mental Health & Stress Management",
+        "question": "How much time do you spend studying each day?"
+    },
+    {
+        "id": 606,
+        "category": "Mental Health & Stress Management",
+        "question": "Do you procrastinate often?"
+    },
+    {
+        "id": 607,
+        "category": "Happiness & Emotional Well-being",
+        "question": "What is your preferred study method?"
+    },
+    {
+        "id": 608,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How well do you balance academics with personal life?"
+    },
+    {
+        "id": 609,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you feel that your academic goals align with your passions?"
+    },
+    {
+        "id": 610,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Have you ever felt that school is too demanding?"
+    },
+    {
+        "id": 611,
+        "category": "Happiness & Emotional Well-being",
+        "question": "What motivates you to study?"
+    },
+    {
+        "id": 612,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you feel comfortable expressing your thoughts and feelings to friends?"
+    },
+    {
+        "id": 613,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How important is social support for your well-being?"
+    },
+    {
+        "id": 614,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you find it easy to make new friends?"
+    },
+    {
+        "id": 615,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Have you ever felt lonely even in a group setting?"
+    },
+    {
+        "id": 616,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How do you handle conflicts with friends or family?"
+    },
+    {
+        "id": 617,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you feel accepted in your social circles?"
+    },
+    {
+        "id": 618,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you prefer socializing in large groups or small groups?"
+    },
+    {
+        "id": 619,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How often do you interact with your peers outside of academics?"
+    },
+    {
+        "id": 620,
+        "category": "Happiness & Emotional Well-being",
+        "question": "What qualities do you value most in a friendship?"
+    },
+    {
+        "id": 621,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you feel that your relationships positively impact your mental health?"
+    },
+    {
+        "id": 622,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How frequently do you exercise?"
+    },
+    {
+        "id": 623,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you consume a balanced diet?"
+    },
+    {
+        "id": 624,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How many hours of sleep do you get per night?"
+    },
+    {
+        "id": 625,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you often feel fatigued or low on energy?"
+    },
+    {
+        "id": 626,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How much water do you drink daily?"
+    },
+    {
+        "id": 627,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you have a regular meal schedule?"
+    },
+    {
+        "id": 628,
+        "category": "Happiness & Emotional Well-being",
+        "question": "How often do you take breaks from screen time?"
+    },
+    {
+        "id": 629,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you experience frequent headaches or physical discomfort?"
+    },
+    {
+        "id": 630,
+        "category": "Happiness & Emotional Well-being",
+        "question": "Do you engage in physical activities that you enjoy?"
+    },
+    {
+        "id": 631,
+        "category": "Happiness & Emotional Well-being",
+        "question": "What is your approach to maintaining physical well-being?"
+    },
+    {
+        "id": 632,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you struggle with falling asleep or staying asleep?"
+    },
+    {
+        "id": 633,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you feel well-rested when you wake up?"
+    },
+    {
+        "id": 634,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you use your phone before sleeping?"
+    },
+    {
+        "id": 635,
+        "category": "Academic Pressure & Study Habits",
+        "question": "How often do you take naps during the day?"
+    },
+    {
+        "id": 636,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you have a consistent bedtime routine?"
+    },
+    {
+        "id": 637,
+        "category": "Academic Pressure & Study Habits",
+        "question": "What factors contribute to your sleep quality?"
+    },
+    {
+        "id": 638,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you feel mentally sharp during the day?"
+    },
+    {
+        "id": 639,
+        "category": "Academic Pressure & Study Habits",
+        "question": "How does lack of sleep affect your mood?"
+    },
+    {
+        "id": 640,
+        "category": "Academic Pressure & Study Habits",
+        "question": "Do you wake up feeling motivated or drained?"
+    }
+]
